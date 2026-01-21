@@ -1,0 +1,62 @@
+[
+  {
+    "ICPC Global Sponsors": [
+      {
+        "Jane Street": {
+          "size": 8,
+          "filename": "/assets/sponsors/jane-street-logo.png"
+        }
+      },
+      {
+        "Jump Trading": {
+          "size": 6,
+          "filename": "/assets/sponsors/jump-trading-logo.png"
+        }
+      },
+      {
+        "Jetbrains": {
+          "size": 10,
+          "filename": "/assets/sponsors/jetbrains-logo.png"
+        }
+      }
+    ]
+  },
+  {
+    "Organizers": [
+      {
+        "Association of Taiwan Computer Programming Contest": {
+          "size": 6,
+          "filename": "/assets/sponsors/TCPC-logo.png"
+        }
+      },
+      {
+        "National Taipei University of Business": {
+          "size": 5,
+          "filename": "/assets/sponsors/ntub-logo.png"
+        }
+      }
+    ]
+  },
+  {
+    "Co-Organizers": [
+      {
+        "Taoyuan City Government": {
+           "size": 5,
+	   "filename": "/assets/sponsors/taoyuan-city.png"
+	}
+      },
+      {
+	"Ministry of Economic Affairs": {
+	  "size": 9,
+	  "filename": "/assets/sponsors/moea-tw.png"
+	}
+      }, 
+      {
+        "Ministry of Digital Affairs": {
+	  "size": 6,
+	  "filename": "/assets/sponsors/moda-tw.png"
+        }
+      }
+    ]
+  }
+]

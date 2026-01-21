@@ -1,0 +1,20 @@
+[
+  {
+    "Jane Street": {
+      "size": 7,
+      "filename": "/assets/sponsors/jane-street-logo.png"
+    }
+  },
+  {
+    "Jump Trading": {
+      "size": 5,
+      "filename": "/assets/sponsors/jump-trading-logo.png"
+    }
+  },
+  {
+    "JetBrains": {
+      "size": 8,
+      "filename": "/assets/sponsors/jetbrains-logo.png"
+    }
+  }
+]
